@@ -1,0 +1,78 @@
+{"key": "tatoeba:10002426:jlpt-ordering:こと", "reason": "made by an older generator"}
+{"key": "tatoeba:10081156:jlpt-ordering:映画を", "reason": "made by an older generator"}
+{"key": "tatoeba:101162:jlpt-kanji_reading:しんせつ", "reason": "made by an older generator"}
+{"key": "tatoeba:101162:jlpt-orthography:親切", "reason": "made by an older generator"}
+{"key": "tatoeba:101162:jlpt-vocab:親切", "reason": "made by an older generator"}
+{"key": "tatoeba:106634:jlpt-orthography:先輩", "reason": "made by an older generator"}
+{"key": "tatoeba:106634:jlpt-vocab:先輩", "reason": "made by an older generator"}
+{"key": "tatoeba:113910:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:115333:jlpt-kanji_reading:いじょう", "reason": "made by an older generator"}
+{"key": "tatoeba:115333:jlpt-orthography:以上", "reason": "made by an older generator"}
+{"key": "tatoeba:115333:jlpt-vocab:以上", "reason": "made by an older generator"}
+{"key": "tatoeba:116047:jlpt-grammar:が", "reason": "made by an older generator"}
+{"key": "tatoeba:1165012:jlpt-vocab:息子", "reason": "odd sentence (quotation)"}
+{"key": "tatoeba:117524:jlpt-ordering:意味が", "reason": "mis-tokenized sentence (どこかなぞめいた → どこかな / ぞめいた); no French translation"}
+{"key": "tatoeba:118354:jlpt-ordering:わからなく", "reason": "no French translation (made in English mode)"}
+{"key": "tatoeba:118420:jlpt-kanji_reading:こと", "reason": "word usually written in kana"}
+{"key": "tatoeba:118420:jlpt-ordering:事が", "reason": "made by an older generator"}
+{"key": "tatoeba:118420:jlpt-orthography:事", "reason": "word usually written in kana"}
+{"key": "tatoeba:118420:jlpt-vocab:事", "reason": "word usually written in kana"}
+{"key": "tatoeba:1190899:jlpt-vocab:夢", "reason": "ユミ = 弓, confusing sentence"}
+{"key": "tatoeba:119497:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:120181:jlpt-grammar:を", "reason": "made by an older generator"}
+{"key": "tatoeba:122389:jlpt-grammar:へ", "reason": "日本での電話 also fits the French translation"}
+{"key": "tatoeba:138061:jlpt-ordering:弾くのが", "reason": "made by an older generator"}
+{"key": "tatoeba:147700:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:152402:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:156303:te:信じて", "reason": "cue 信ずる is a literary form (信じる today): confusing for a て-form exercise"}
+{"key": "tatoeba:156917:jlpt-kanji_reading:しゅっぱつ", "reason": "made by an older generator"}
+{"key": "tatoeba:159047:jlpt-grammar:引いて", "reason": "made by an older generator"}
+{"key": "tatoeba:162665:jlpt-kanji_reading:せいじ", "reason": "made by an older generator"}
+{"key": "tatoeba:162665:jlpt-orthography:政治", "reason": "made by an older generator"}
+{"key": "tatoeba:163090:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:171697:jlpt-ordering:勉強する", "reason": "made by an older generator"}
+{"key": "tatoeba:173793:jlpt-ordering:どれでも", "reason": "made by an older generator"}
+{"key": "tatoeba:174070:jlpt-kanji_reading:ひかり", "reason": "made by an older generator"}
+{"key": "tatoeba:174070:jlpt-orthography:光", "reason": "made by an older generator"}
+{"key": "tatoeba:174070:jlpt-vocab:光", "reason": "made by an older generator"}
+{"key": "tatoeba:174166:jlpt-kanji_reading:こうつう", "reason": "made by an older generator"}
+{"key": "tatoeba:174166:jlpt-orthography:交通", "reason": "made by an older generator"}
+{"key": "tatoeba:174166:jlpt-vocab:交通", "reason": "made by an older generator"}
+{"key": "tatoeba:174195:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:186310:jlpt-grammar:して", "reason": "made by an older generator"}
+{"key": "tatoeba:186310:jlpt-orthography:利用", "reason": "made by an older generator"}
+{"key": "tatoeba:186310:jlpt-vocab:利用", "reason": "made by an older generator"}
+{"key": "tatoeba:186328:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:187662:jlpt-grammar:変わらない", "reason": "made by an older generator"}
+{"key": "tatoeba:189041:jlpt-grammar:は", "reason": "made by an older generator"}
+{"key": "tatoeba:190663:jlpt-kanji_reading:がつ", "reason": "made by an older generator"}
+{"key": "tatoeba:190663:jlpt-vocab:月", "reason": "made by an older generator"}
+{"key": "tatoeba:191383:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:199717:particle:で", "reason": "トランプに賭ける (bet on Trump) also possible"}
+{"key": "tatoeba:213760:particle:が", "reason": "は also possible (そこは…ところです, contrastive)"}
+{"key": "tatoeba:215167:jlpt-kanji_reading:よやく", "reason": "made by an older generator"}
+{"key": "tatoeba:215167:jlpt-orthography:予約", "reason": "made by an older generator"}
+{"key": "tatoeba:218881:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:224714:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:231510:masu:信じます", "reason": "cue 信ずる is a literary form (信じる today): confusing for a ます exercise"}
+{"key": "tatoeba:3357735:jlpt-grammar:申します", "reason": "made by an older generator"}
+{"key": "tatoeba:3367035:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:4028374:jlpt-grammar:入れた", "reason": "made by an older generator"}
+{"key": "tatoeba:4028374:jlpt-kanji_reading:ちから", "reason": "made by an older generator"}
+{"key": "tatoeba:4028374:jlpt-ordering:力を", "reason": "made by an older generator"}
+{"key": "tatoeba:4028374:jlpt-vocab:力", "reason": "made by an older generator"}
+{"key": "tatoeba:4316729:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:5301:particle:に", "reason": "で also possible (そこで立っている)"}
+{"key": "tatoeba:80026:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:82216:jlpt-orthography:具合", "reason": "工合 is also a correct spelling of ぐあい"}
+{"key": "tatoeba:8693860:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:8729185:jlpt-grammar:に", "reason": "made by an older generator"}
+{"key": "tatoeba:8729185:jlpt-ordering:少し", "reason": "made by an older generator"}
+{"key": "tatoeba:90780:jlpt-ordering:話さない", "reason": "made by an older generator"}
+{"key": "tatoeba:90780:jlpt-orthography:会議", "reason": "made by an older generator"}
+{"key": "tatoeba:90780:jlpt-vocab:会議", "reason": "made by an older generator"}
+{"key": "tatoeba:93699:jlpt-grammar:着て", "reason": "made by an older generator"}
+{"key": "tatoeba:93699:jlpt-ordering:とても", "reason": "made by an older generator"}
+{"key": "tatoeba:9524814:particle:で", "reason": "に also possible (前に立ち止まる)"}
+{"key": "tatoeba:982435:particle:で", "reason": "に also possible (法の下に平等)"}
+{"key": "tatoeba:992011:particle:を", "reason": "wrong French translation (貰った = received, not gave)"}

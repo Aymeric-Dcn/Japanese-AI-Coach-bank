@@ -1,0 +1,79 @@
+{
+ "format": 1,
+ "version": 1,
+ "updated": "2026-09-28",
+ "count": 125,
+ "rejected": 78,
+ "files": [
+  {
+   "path": "exercises/jlpt-n4-grammar.jsonl",
+   "sha256": "e62a6171e463fdf5f2cd72f4f5520870a3c8291239bf3cb5aca246620e846518",
+   "count": 10,
+   "topic": "JLPT N4 · 文法形式 (grammaire)",
+   "topic_en": "JLPT N4 · 文法形式 (grammar)"
+  },
+  {
+   "path": "exercises/jlpt-n4-kanji-reading.jsonl",
+   "sha256": "efaaa726a223a977b6ba0a9a1825d5c1003bce4f13d3fa2a304659fb2083459b",
+   "count": 10,
+   "topic": "JLPT N4 · 漢字読み (lecture)",
+   "topic_en": "JLPT N4 · 漢字読み (reading)"
+  },
+  {
+   "path": "exercises/jlpt-n4-ordering.jsonl",
+   "sha256": "3ff7c5a8b830c113fb01110e516d7065072507909b796f000236fef021008463",
+   "count": 8,
+   "topic": "JLPT N4 · 並べ替え ★ (ordre)",
+   "topic_en": "JLPT N4 · 並べ替え ★ (word order)"
+  },
+  {
+   "path": "exercises/jlpt-n4-orthography.jsonl",
+   "sha256": "3c61c6d0d557c3bcff5f55ba1c5a0e11170e69031c23d69a9cb6b18504195844",
+   "count": 10,
+   "topic": "JLPT N4 · 表記 (écriture)",
+   "topic_en": "JLPT N4 · 表記 (writing)"
+  },
+  {
+   "path": "exercises/jlpt-n4-vocab.jsonl",
+   "sha256": "af290ec513dbdca44fd302a71ccc55f62e18ea056231038765ffe0be5fcd8d32",
+   "count": 10,
+   "topic": "JLPT N4 · 文脈規定 (vocabulaire)",
+   "topic_en": "JLPT N4 · 文脈規定 (vocabulary)"
+  },
+  {
+   "path": "exercises/masu.jsonl",
+   "sha256": "0bfecd3b6fd4c464d605070f4defc08e910e6000951aed5fe6f7b446c36bfcf0",
+   "count": 14,
+   "topic": "Forme polie en ます",
+   "topic_en": "Polite form: ます"
+  },
+  {
+   "path": "exercises/ni-de.jsonl",
+   "sha256": "e98908e1bfd9ceda15db8025f061072bb218215d6023c04b3b165369797bef55",
+   "count": 16,
+   "topic": "Particules に / で",
+   "topic_en": "Particles に / で"
+  },
+  {
+   "path": "exercises/te-form.jsonl",
+   "sha256": "560182f9710d8ffa4d287f8376d1011d7f38024c875d0072554eda2edc9312de",
+   "count": 19,
+   "topic": "Forme en て",
+   "topic_en": "て-form"
+  },
+  {
+   "path": "exercises/wa-ga.jsonl",
+   "sha256": "15c79ea1d6f83098d528e68a861acd9d917fdc9b176bfea4ed0deae39d648eb0",
+   "count": 14,
+   "topic": "Particules は / が",
+   "topic_en": "Particles は / が"
+  },
+  {
+   "path": "exercises/wo-ga.jsonl",
+   "sha256": "c906dc6610fd164188d29adc77f73ba9bbd717dc02cda24aedb737b80ae3fbc8",
+   "count": 14,
+   "topic": "Particules を / が",
+   "topic_en": "Particles を / が"
+  }
+ ]
+}
