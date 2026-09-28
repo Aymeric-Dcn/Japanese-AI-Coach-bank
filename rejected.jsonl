@@ -3,6 +3,8 @@
 {"key": "tatoeba:101162:jlpt-kanji_reading:しんせつ", "reason": "made by an older generator"}
 {"key": "tatoeba:101162:jlpt-orthography:親切", "reason": "made by an older generator"}
 {"key": "tatoeba:101162:jlpt-vocab:親切", "reason": "made by an older generator"}
+{"key": "tatoeba:103064:jlpt-kanji_reading:ひと", "reason": "the Tatoeba sentence is ungrammatical (先見の明るい人)"}
+{"key": "tatoeba:103233:nagara:生まれながら", "reason": "生まれながら = « by birth », not the simultaneous ながら"}
 {"key": "tatoeba:106634:jlpt-orthography:先輩", "reason": "made by an older generator"}
 {"key": "tatoeba:106634:jlpt-vocab:先輩", "reason": "made by an older generator"}
 {"key": "tatoeba:113910:particle:は", "reason": "both particles possible here"}
@@ -21,12 +23,15 @@
 {"key": "tatoeba:119497:particle:が", "reason": "both particles possible here"}
 {"key": "tatoeba:120181:jlpt-grammar:を", "reason": "made by an older generator"}
 {"key": "tatoeba:122389:jlpt-grammar:へ", "reason": "日本での電話 also fits the French translation"}
+{"key": "tatoeba:1237029:negative:えない", "reason": "blank cuts ありえない in two (cue える, the verb is 得る / ありうる)"}
 {"key": "tatoeba:138061:jlpt-ordering:弾くのが", "reason": "made by an older generator"}
 {"key": "tatoeba:147700:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:148035:ba:かけば", "reason": "wrong cue: かけば comes from かく (汗をかく), not かける"}
 {"key": "tatoeba:152402:particle:は", "reason": "both particles possible here"}
 {"key": "tatoeba:156303:te:信じて", "reason": "cue 信ずる is a literary form (信じる today): confusing for a て-form exercise"}
 {"key": "tatoeba:156917:jlpt-kanji_reading:しゅっぱつ", "reason": "made by an older generator"}
 {"key": "tatoeba:159047:jlpt-grammar:引いて", "reason": "made by an older generator"}
+{"key": "tatoeba:1618204:particle:や", "reason": "a haiku, not a listing や (ungrammatical as a sentence)"}
 {"key": "tatoeba:162665:jlpt-kanji_reading:せいじ", "reason": "made by an older generator"}
 {"key": "tatoeba:162665:jlpt-orthography:政治", "reason": "made by an older generator"}
 {"key": "tatoeba:163090:particle:は", "reason": "both particles possible here"}
@@ -45,16 +50,23 @@
 {"key": "tatoeba:186328:particle:が", "reason": "both particles possible here"}
 {"key": "tatoeba:187662:jlpt-grammar:変わらない", "reason": "made by an older generator"}
 {"key": "tatoeba:189041:jlpt-grammar:は", "reason": "made by an older generator"}
+{"key": "tatoeba:189178:causative:済ませる", "reason": "済ませる is a verb of its own (to get by), not a causative for the learner"}
 {"key": "tatoeba:190663:jlpt-kanji_reading:がつ", "reason": "made by an older generator"}
 {"key": "tatoeba:190663:jlpt-vocab:月", "reason": "made by an older generator"}
 {"key": "tatoeba:191383:particle:は", "reason": "both particles possible here"}
 {"key": "tatoeba:199717:particle:で", "reason": "トランプに賭ける (bet on Trump) also possible"}
+{"key": "tatoeba:200807:ba:言えば", "reason": "どちらかと言えば is a fixed expression and the translation is wrong"}
+{"key": "tatoeba:202592:negative:いけない", "reason": "cue いける is misleading: 〜といけない is a fixed expression, not the negative of いける"}
 {"key": "tatoeba:213760:particle:が", "reason": "は also possible (そこは…ところです, contrastive)"}
 {"key": "tatoeba:215167:jlpt-kanji_reading:よやく", "reason": "made by an older generator"}
 {"key": "tatoeba:215167:jlpt-orthography:予約", "reason": "made by an older generator"}
+{"key": "tatoeba:218561:jlpt-vocab:本", "reason": "ambiguous: 小さい手 fits as well as 小さい本"}
 {"key": "tatoeba:218881:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:219894:negative:いけない", "reason": "cue いける is misleading: 〜てはいけない is a fixed expression, not the negative of いける"}
+{"key": "tatoeba:2231208:jlpt-grammar:から", "reason": "ambiguous: アメリカに来ました is correct too"}
 {"key": "tatoeba:224714:particle:が", "reason": "both particles possible here"}
 {"key": "tatoeba:231510:masu:信じます", "reason": "cue 信ずる is a literary form (信じる today): confusing for a ます exercise"}
+{"key": "tatoeba:2684207:jlpt-vocab:学校", "reason": "ambiguous and colloquial (particle dropped): 兄行きたくない can be read too"}
 {"key": "tatoeba:3357735:jlpt-grammar:申します", "reason": "made by an older generator"}
 {"key": "tatoeba:3367035:particle:は", "reason": "both particles possible here"}
 {"key": "tatoeba:4028374:jlpt-grammar:入れた", "reason": "made by an older generator"}
@@ -76,3 +88,5 @@
 {"key": "tatoeba:9524814:particle:で", "reason": "に also possible (前に立ち止まる)"}
 {"key": "tatoeba:982435:particle:で", "reason": "に also possible (法の下に平等)"}
 {"key": "tatoeba:992011:particle:を", "reason": "wrong French translation (貰った = received, not gave)"}
+{"key": "tatoeba:993577:causative:知らせる", "reason": "知らせる is a verb of its own (to inform), not the causative of 知る"}
+{"key": "tatoeba:9969757:jlpt-vocab:外", "reason": "ambiguous: 八日に出たくない is grammatical too"}
