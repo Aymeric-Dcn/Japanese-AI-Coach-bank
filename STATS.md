@@ -1,6 +1,6 @@
-# Bank statistics — v2 (2026-09-28)
+# Bank statistics — v3 (2026-09-28)
 
-**338** reviewed exercises · 92 rejected keys
+**367** reviewed exercises · 93 rejected keys
 
 | File | Topic | Exercises |
 | --- | --- | ---: |
@@ -21,11 +21,13 @@
 | `exercises/negative.jsonl` | Negative: ない | 12 |
 | `exercises/ni-de.jsonl` | Particles に / で | 19 |
 | `exercises/ni-e.jsonl` | Particles に / へ | 15 |
+| `exercises/noni-node.jsonl` | のに / ので | 15 |
 | `exercises/past.jsonl` | Past: た | 15 |
 | `exercises/tai.jsonl` | Wanting: たい | 15 |
 | `exercises/tara.jsonl` | Conditional: たら | 15 |
 | `exercises/te-form.jsonl` | て-form | 35 |
 | `exercises/to-ya.jsonl` | Particles と / や | 14 |
+| `exercises/volitional.jsonl` | Volitional: う / よう | 14 |
 | `exercises/wa-ga.jsonl` | Particles は / が | 15 |
 | `exercises/wa-mo.jsonl` | Particles は / も | 15 |
 | `exercises/wo-ga.jsonl` | Particles を / が | 15 |

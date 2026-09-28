@@ -1,9 +1,9 @@
 {
  "format": 1,
- "version": 2,
+ "version": 3,
  "updated": "2026-09-28",
- "count": 338,
- "rejected": 92,
+ "count": 367,
+ "rejected": 93,
  "files": [
   {
    "path": "exercises/ba.jsonl",
@@ -125,6 +125,13 @@
    "topic_en": "Particles に / へ"
   },
   {
+   "path": "exercises/noni-node.jsonl",
+   "sha256": "d0b8bf724568254a0309164f092284885ceabb2dc3ae191b639de851c0a2c9d3",
+   "count": 15,
+   "topic": "のに / ので",
+   "topic_en": "のに / ので"
+  },
+  {
    "path": "exercises/past.jsonl",
    "sha256": "768780954d16e041a21bcb575f575a5e2144a3ed0fd1de6754b1df32cccc6a13",
    "count": 15,
@@ -158,6 +165,13 @@
    "count": 14,
    "topic": "Particules と / や",
    "topic_en": "Particles と / や"
+  },
+  {
+   "path": "exercises/volitional.jsonl",
+   "sha256": "e704013a2a25bea0b8a2dcf9493dd155cb2de300f3e087273cf2fea7c1c1bbd9",
+   "count": 14,
+   "topic": "Volitif en う / よう",
+   "topic_en": "Volitional: う / よう"
   },
   {
    "path": "exercises/wa-ga.jsonl",

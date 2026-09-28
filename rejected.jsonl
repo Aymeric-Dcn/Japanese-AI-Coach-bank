@@ -65,6 +65,7 @@
 {"key": "tatoeba:219894:negative:いけない", "reason": "cue いける is misleading: 〜てはいけない is a fixed expression, not the negative of いける"}
 {"key": "tatoeba:2231208:jlpt-grammar:から", "reason": "ambiguous: アメリカに来ました is correct too"}
 {"key": "tatoeba:224714:particle:が", "reason": "both particles possible here"}
+{"key": "tatoeba:230422:volitional:取り除けよう", "reason": "取り除ける (とりのける) is a rare verb and the reading given (とりのぞけよう) is wrong; 取り除こう is the usual form"}
 {"key": "tatoeba:231510:masu:信じます", "reason": "cue 信ずる is a literary form (信じる today): confusing for a ます exercise"}
 {"key": "tatoeba:2684207:jlpt-vocab:学校", "reason": "ambiguous and colloquial (particle dropped): 兄行きたくない can be read too"}
 {"key": "tatoeba:3357735:jlpt-grammar:申します", "reason": "made by an older generator"}
