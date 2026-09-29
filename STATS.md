@@ -1,6 +1,6 @@
-# Bank statistics — v3 (2026-09-28)
+# Bank statistics — v4 (2026-09-29)
 
-**367** reviewed exercises · 93 rejected keys
+**460** reviewed exercises · 105 rejected keys
 
 | File | Topic | Exercises |
 | --- | --- | ---: |
@@ -16,6 +16,7 @@
 | `exercises/jlpt-n5-orthography.jsonl` | JLPT N5 · 表記 (writing) | 10 |
 | `exercises/jlpt-n5-vocab.jsonl` | JLPT N5 · 文脈規定 (vocabulary) | 7 |
 | `exercises/kara-made.jsonl` | Particles から / まで | 15 |
+| `exercises/mae-ato.jsonl` | Before / after: 前に・後で | 17 |
 | `exercises/masu.jsonl` | Polite form: ます | 15 |
 | `exercises/nagara.jsonl` | While: ながら | 14 |
 | `exercises/negative.jsonl` | Negative: ない | 12 |
@@ -23,11 +24,15 @@
 | `exercises/ni-e.jsonl` | Particles に / へ | 15 |
 | `exercises/noni-node.jsonl` | のに / ので | 15 |
 | `exercises/past.jsonl` | Past: た | 15 |
+| `exercises/relative-form.jsonl` | Relative clauses: the verb before the noun | 18 |
+| `exercises/relative-ga.jsonl` | Relative clauses: は or が | 16 |
 | `exercises/tai.jsonl` | Wanting: たい | 15 |
 | `exercises/tara.jsonl` | Conditional: たら | 15 |
 | `exercises/te-form.jsonl` | て-form | 35 |
+| `exercises/temo.jsonl` | Even if: ても | 19 |
 | `exercises/to-ya.jsonl` | Particles と / や | 14 |
 | `exercises/volitional.jsonl` | Volitional: う / よう | 14 |
 | `exercises/wa-ga.jsonl` | Particles は / が | 15 |
 | `exercises/wa-mo.jsonl` | Particles は / も | 15 |
 | `exercises/wo-ga.jsonl` | Particles を / が | 15 |
+| `exercises/word-order.jsonl` | Word order | 23 |

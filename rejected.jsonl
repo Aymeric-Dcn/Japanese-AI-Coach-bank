@@ -1,9 +1,11 @@
 {"key": "tatoeba:10002426:jlpt-ordering:こと", "reason": "made by an older generator"}
 {"key": "tatoeba:10081156:jlpt-ordering:映画を", "reason": "made by an older generator"}
+{"key": "tatoeba:101119:particle:が", "reason": "French translation does not match the sentence"}
 {"key": "tatoeba:101162:jlpt-kanji_reading:しんせつ", "reason": "made by an older generator"}
 {"key": "tatoeba:101162:jlpt-orthography:親切", "reason": "made by an older generator"}
 {"key": "tatoeba:101162:jlpt-vocab:親切", "reason": "made by an older generator"}
 {"key": "tatoeba:103064:jlpt-kanji_reading:ひと", "reason": "the Tatoeba sentence is ungrammatical (先見の明るい人)"}
+{"key": "tatoeba:103156:particle:が", "reason": "not a relative clause (青が…色だ is the quoted sentence); は is possible"}
 {"key": "tatoeba:103233:nagara:生まれながら", "reason": "生まれながら = « by birth », not the simultaneous ながら"}
 {"key": "tatoeba:106634:jlpt-orthography:先輩", "reason": "made by an older generator"}
 {"key": "tatoeba:106634:jlpt-vocab:先輩", "reason": "made by an older generator"}
@@ -26,9 +28,12 @@
 {"key": "tatoeba:1237029:negative:えない", "reason": "blank cuts ありえない in two (cue える, the verb is 得る / ありうる)"}
 {"key": "tatoeba:138061:jlpt-ordering:弾くのが", "reason": "made by an older generator"}
 {"key": "tatoeba:147700:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:147786:mae-ato:出かける", "reason": "near duplicate of another exercise (ガスを止めなさい)"}
 {"key": "tatoeba:148035:ba:かけば", "reason": "wrong cue: かけば comes from かく (汗をかく), not かける"}
 {"key": "tatoeba:152402:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:154041:order:5", "reason": "六ヶ月に一度 is one unit: the free order of the pieces does not hold"}
 {"key": "tatoeba:156303:te:信じて", "reason": "cue 信ずる is a literary form (信じる today): confusing for a て-form exercise"}
+{"key": "tatoeba:156663:order:3", "reason": "三年間日記 cut as one noun: 三年間 is a duration, not part of the object"}
 {"key": "tatoeba:156917:jlpt-kanji_reading:しゅっぱつ", "reason": "made by an older generator"}
 {"key": "tatoeba:159047:jlpt-grammar:引いて", "reason": "made by an older generator"}
 {"key": "tatoeba:1618204:particle:や", "reason": "a haiku, not a listing や (ungrammatical as a sentence)"}
@@ -53,13 +58,18 @@
 {"key": "tatoeba:189178:causative:済ませる", "reason": "済ませる is a verb of its own (to get by), not a causative for the learner"}
 {"key": "tatoeba:190663:jlpt-kanji_reading:がつ", "reason": "made by an older generator"}
 {"key": "tatoeba:190663:jlpt-vocab:月", "reason": "made by an older generator"}
+{"key": "tatoeba:191274:mae-ato:なる", "reason": "duplicate of 暗くなる前に"}
 {"key": "tatoeba:191383:particle:は", "reason": "both particles possible here"}
+{"key": "tatoeba:192596:temo:つけても", "reason": "〜てもご迷惑では: asks for permission, not « even if »"}
 {"key": "tatoeba:199717:particle:で", "reason": "トランプに賭ける (bet on Trump) also possible"}
 {"key": "tatoeba:200807:ba:言えば", "reason": "どちらかと言えば is a fixed expression and the translation is wrong"}
 {"key": "tatoeba:202592:negative:いけない", "reason": "cue いける is misleading: 〜といけない is a fixed expression, not the negative of いける"}
 {"key": "tatoeba:213760:particle:が", "reason": "は also possible (そこは…ところです, contrastive)"}
 {"key": "tatoeba:215167:jlpt-kanji_reading:よやく", "reason": "made by an older generator"}
 {"key": "tatoeba:215167:jlpt-orthography:予約", "reason": "made by an older generator"}
+{"key": "tatoeba:217021:mae-ato:さし上げる", "reason": "さし上げる in mixed kana / kanji and a very polite form: confusing"}
+{"key": "tatoeba:217410:relative:ばかげた", "reason": "ばかげる is only used as ばかげた: the cue is misleading"}
+{"key": "tatoeba:218324:particle:が", "reason": "contrastive は (意味は) would be possible inside this clause"}
 {"key": "tatoeba:218561:jlpt-vocab:本", "reason": "ambiguous: 小さい手 fits as well as 小さい本"}
 {"key": "tatoeba:218881:particle:が", "reason": "both particles possible here"}
 {"key": "tatoeba:219894:negative:いけない", "reason": "cue いける is misleading: 〜てはいけない is a fixed expression, not the negative of いける"}
@@ -67,6 +77,7 @@
 {"key": "tatoeba:224714:particle:が", "reason": "both particles possible here"}
 {"key": "tatoeba:230422:volitional:取り除けよう", "reason": "取り除ける (とりのける) is a rare verb and the reading given (とりのぞけよう) is wrong; 取り除こう is the usual form"}
 {"key": "tatoeba:231510:masu:信じます", "reason": "cue 信ずる is a literary form (信じる today): confusing for a ます exercise"}
+{"key": "tatoeba:2317133:particle:が", "reason": "気がする: not a relative clause; タトエバは is possible"}
 {"key": "tatoeba:2684207:jlpt-vocab:学校", "reason": "ambiguous and colloquial (particle dropped): 兄行きたくない can be read too"}
 {"key": "tatoeba:3357735:jlpt-grammar:申します", "reason": "made by an older generator"}
 {"key": "tatoeba:3367035:particle:は", "reason": "both particles possible here"}
@@ -84,6 +95,7 @@
 {"key": "tatoeba:90780:jlpt-ordering:話さない", "reason": "made by an older generator"}
 {"key": "tatoeba:90780:jlpt-orthography:会議", "reason": "made by an older generator"}
 {"key": "tatoeba:90780:jlpt-vocab:会議", "reason": "made by an older generator"}
+{"key": "tatoeba:92183:relative:ならない", "reason": "the blank would be ならない of しなければならない, not the relative verb"}
 {"key": "tatoeba:93699:jlpt-grammar:着て", "reason": "made by an older generator"}
 {"key": "tatoeba:93699:jlpt-ordering:とても", "reason": "made by an older generator"}
 {"key": "tatoeba:9524814:particle:で", "reason": "に also possible (前に立ち止まる)"}

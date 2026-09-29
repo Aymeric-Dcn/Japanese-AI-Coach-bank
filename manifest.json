@@ -1,9 +1,9 @@
 {
  "format": 1,
- "version": 3,
- "updated": "2026-09-28",
- "count": 367,
- "rejected": 93,
+ "version": 4,
+ "updated": "2026-09-29",
+ "count": 460,
+ "rejected": 105,
  "files": [
   {
    "path": "exercises/ba.jsonl",
@@ -90,6 +90,13 @@
    "topic_en": "Particles から / まで"
   },
   {
+   "path": "exercises/mae-ato.jsonl",
+   "sha256": "950b90517e90ac9a220873e5f7d73a1aa382661e7bd2faba995e614801cdc9f7",
+   "count": 17,
+   "topic": "Avant / après : 前に・後で",
+   "topic_en": "Before / after: 前に・後で"
+  },
+  {
    "path": "exercises/masu.jsonl",
    "sha256": "f088fca8653b4c2e29a15fdd863803d129c3fd15c8581712397b1de117dc1839",
    "count": 15,
@@ -139,6 +146,20 @@
    "topic_en": "Past: た"
   },
   {
+   "path": "exercises/relative-form.jsonl",
+   "sha256": "283ceebffa58cf1da2217cc90944b9130d34d47090254056ec905be469e8448b",
+   "count": 18,
+   "topic": "Relatives : verbe devant le nom",
+   "topic_en": "Relative clauses: the verb before the noun"
+  },
+  {
+   "path": "exercises/relative-ga.jsonl",
+   "sha256": "a4e8c7d434298c27ed410f37680932baeda361d216e8d703aee982e8647615f3",
+   "count": 16,
+   "topic": "Relatives : は ou が",
+   "topic_en": "Relative clauses: は or が"
+  },
+  {
    "path": "exercises/tai.jsonl",
    "sha256": "660b85a8d17a1a1bfc13287b593de6f75ed1b8f52c529ee44d0c12b684aa487e",
    "count": 15,
@@ -158,6 +179,13 @@
    "count": 35,
    "topic": "Forme en て",
    "topic_en": "て-form"
+  },
+  {
+   "path": "exercises/temo.jsonl",
+   "sha256": "49140aec14c4d3498150ec64dee6b1a52c88411284b7d725c9da4ae89d678085",
+   "count": 19,
+   "topic": "Même si : ても",
+   "topic_en": "Even if: ても"
   },
   {
    "path": "exercises/to-ya.jsonl",
@@ -193,6 +221,13 @@
    "count": 15,
    "topic": "Particules を / が",
    "topic_en": "Particles を / が"
+  },
+  {
+   "path": "exercises/word-order.jsonl",
+   "sha256": "30678724935945dc36b5cd22427cc923588f755d730e088bb15883a3a0bbe715",
+   "count": 23,
+   "topic": "Ordre des mots",
+   "topic_en": "Word order"
   }
  ]
 }
