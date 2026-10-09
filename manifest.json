@@ -1,230 +1,230 @@
 {
  "format": 1,
- "version": 4,
- "updated": "2026-09-29",
+ "version": 5,
+ "updated": "2026-10-09",
  "count": 460,
- "rejected": 105,
+ "rejected": 93,
  "files": [
   {
    "path": "exercises/ba.jsonl",
-   "sha256": "8fca6981b64eed91f8eb6b0b6af7b7bf8179e679fbd37592633681e84a46643c",
+   "sha256": "a836b2cd086b47f14c879f6e497a6d74d56a538f89ea09bddaf219f4533a99a7",
    "count": 13,
    "topic": "Conditionnel en ば",
    "topic_en": "Conditional: ば"
   },
   {
    "path": "exercises/causative.jsonl",
-   "sha256": "618e638a17148c81f1787fbd08d19027afee7c89559ccd948d4266585ad195c1",
+   "sha256": "6110573603c822957b752ae65c1bdb57291deeb5c6d8a2afdd9ca3214dafa855",
    "count": 13,
    "topic": "Causatif en せる / させる",
    "topic_en": "Causative: せる / させる"
   },
   {
    "path": "exercises/jlpt-n4-grammar.jsonl",
-   "sha256": "e62a6171e463fdf5f2cd72f4f5520870a3c8291239bf3cb5aca246620e846518",
+   "sha256": "8bdc3e7903ba2e0afe4e35502076ade4b4d1319fd373d450b53003127b420758",
    "count": 10,
    "topic": "JLPT N4 · 文法形式 (grammaire)",
    "topic_en": "JLPT N4 · 文法形式 (grammar)"
   },
   {
    "path": "exercises/jlpt-n4-kanji-reading.jsonl",
-   "sha256": "efaaa726a223a977b6ba0a9a1825d5c1003bce4f13d3fa2a304659fb2083459b",
+   "sha256": "797da4dc16b57db7a68651850c93dddfa69acc28d606ac71186b8c03f281558e",
    "count": 10,
    "topic": "JLPT N4 · 漢字読み (lecture)",
    "topic_en": "JLPT N4 · 漢字読み (reading)"
   },
   {
    "path": "exercises/jlpt-n4-ordering.jsonl",
-   "sha256": "3ff7c5a8b830c113fb01110e516d7065072507909b796f000236fef021008463",
+   "sha256": "22851168c54948a47089fa20871eebb03cb72b15c3b79f961c0b03167fd8f613",
    "count": 8,
    "topic": "JLPT N4 · 並べ替え ★ (ordre)",
    "topic_en": "JLPT N4 · 並べ替え ★ (word order)"
   },
   {
    "path": "exercises/jlpt-n4-orthography.jsonl",
-   "sha256": "3c61c6d0d557c3bcff5f55ba1c5a0e11170e69031c23d69a9cb6b18504195844",
+   "sha256": "de523ae70ffdae6778a5d04fee1229fc5cf9b5f82d1ec6783de9d65e881a43c5",
    "count": 10,
    "topic": "JLPT N4 · 表記 (écriture)",
    "topic_en": "JLPT N4 · 表記 (writing)"
   },
   {
    "path": "exercises/jlpt-n4-vocab.jsonl",
-   "sha256": "af290ec513dbdca44fd302a71ccc55f62e18ea056231038765ffe0be5fcd8d32",
+   "sha256": "4c8b21c1558ec94a30ac1fd34b686e48b18f84ee8f38bd7b81d6b3924791c9ed",
    "count": 10,
    "topic": "JLPT N4 · 文脈規定 (vocabulaire)",
    "topic_en": "JLPT N4 · 文脈規定 (vocabulary)"
   },
   {
    "path": "exercises/jlpt-n5-grammar.jsonl",
-   "sha256": "6274c998852e7842320092f2ed8a6302fe80ab815b57b392d455e4b1c1a9afb1",
+   "sha256": "58ee59940fe6765824304f9c958d11b01a1697551a42d3224ba3f06f3c00d80a",
    "count": 9,
    "topic": "JLPT N5 · 文法形式 (grammaire)",
    "topic_en": "JLPT N5 · 文法形式 (grammar)"
   },
   {
    "path": "exercises/jlpt-n5-kanji-reading.jsonl",
-   "sha256": "88a12dae90cda48fc499dfdc23ee4e70a9d2149212f2554a8d95722273858a1d",
+   "sha256": "d603962952c5e387bee71985a98a75c47e032bb9d73af61e8569d95adf4a6ba6",
    "count": 9,
    "topic": "JLPT N5 · 漢字読み (lecture)",
    "topic_en": "JLPT N5 · 漢字読み (reading)"
   },
   {
    "path": "exercises/jlpt-n5-orthography.jsonl",
-   "sha256": "552b416f5d6c184aed111e4602f4c1b1de9eb159ba8879733fd14b1fde4d94e9",
+   "sha256": "7ad7ad0dd88bf47098eb95e3b089f6b057c448e84ed6db7eaf8a9f5d9ecc622b",
    "count": 10,
    "topic": "JLPT N5 · 表記 (écriture)",
    "topic_en": "JLPT N5 · 表記 (writing)"
   },
   {
    "path": "exercises/jlpt-n5-vocab.jsonl",
-   "sha256": "3b2319331a9aff46cdc13007f745b7a1b3f479a4ac271beed166151543bff5f1",
+   "sha256": "68e9e79fe04bcf568e4d4c85430dcdddc08258e5e2e26e98a2b3b75733c6d20d",
    "count": 7,
    "topic": "JLPT N5 · 文脈規定 (vocabulaire)",
    "topic_en": "JLPT N5 · 文脈規定 (vocabulary)"
   },
   {
    "path": "exercises/kara-made.jsonl",
-   "sha256": "5e217521a50eca72d9b0878fa69721f9da3c95e16a55deb28a31f36d025488b8",
+   "sha256": "d18bc14b2a577b6e6f489cc2efd7d2c2672471cc2d5c5537c743d653f1765ed3",
    "count": 15,
    "topic": "Particules から / まで",
    "topic_en": "Particles から / まで"
   },
   {
    "path": "exercises/mae-ato.jsonl",
-   "sha256": "950b90517e90ac9a220873e5f7d73a1aa382661e7bd2faba995e614801cdc9f7",
+   "sha256": "c3ce7708f213cf4f14e953f61c932f29585def853b63b19f4c660fbe4fb927ed",
    "count": 17,
    "topic": "Avant / après : 前に・後で",
    "topic_en": "Before / after: 前に・後で"
   },
   {
    "path": "exercises/masu.jsonl",
-   "sha256": "f088fca8653b4c2e29a15fdd863803d129c3fd15c8581712397b1de117dc1839",
+   "sha256": "a5954b0be87bd72f267652f5cf662f4e6893cf0b6ae8f22a3ac160323029fcde",
    "count": 15,
    "topic": "Forme polie en ます",
    "topic_en": "Polite form: ます"
   },
   {
    "path": "exercises/nagara.jsonl",
-   "sha256": "d08921b231bc77bb71b06f1123e52575da27afab4cff3eaf02bc45e6a660eb68",
+   "sha256": "a4ef6c6e58f3fea559f008def1619d423921e6f6a727f46597ab3ef64815dc50",
    "count": 14,
    "topic": "Simultanéité : ながら",
    "topic_en": "While: ながら"
   },
   {
    "path": "exercises/negative.jsonl",
-   "sha256": "dd15fc34bde6bbe14f98bb77c1c9102b512e43b161e34b5f3b8c150439a5d643",
+   "sha256": "0c676baba96d739660a6593ddbcb403e6774ae0a9a223816cf60c98901b85367",
    "count": 12,
    "topic": "Négatif en ない",
    "topic_en": "Negative: ない"
   },
   {
    "path": "exercises/ni-de.jsonl",
-   "sha256": "a2261e0b763e3134cee06a00763de4cb32733335fe73e4c778888d3fba5c575c",
+   "sha256": "aebcd31e49ade44f4031aec2a53ea8d234a180dea2c762ce81be176cb0e73ca3",
    "count": 19,
    "topic": "Particules に / で",
    "topic_en": "Particles に / で"
   },
   {
    "path": "exercises/ni-e.jsonl",
-   "sha256": "9f7edaa57998d2a88ee22e9daf6102f4dcf28440b34179a9d395339beefbcdaf",
+   "sha256": "9f2e50ab2eb33e2ae8983639be0aebd77157659d3bc4e438086fb7e266179c26",
    "count": 15,
    "topic": "Particules に / へ",
    "topic_en": "Particles に / へ"
   },
   {
    "path": "exercises/noni-node.jsonl",
-   "sha256": "d0b8bf724568254a0309164f092284885ceabb2dc3ae191b639de851c0a2c9d3",
+   "sha256": "9d40eb4c2700d01c6556d0b909be4f7ae2bed1db38a579b3fa0cd0c1d7d4b48b",
    "count": 15,
    "topic": "のに / ので",
    "topic_en": "のに / ので"
   },
   {
    "path": "exercises/past.jsonl",
-   "sha256": "768780954d16e041a21bcb575f575a5e2144a3ed0fd1de6754b1df32cccc6a13",
+   "sha256": "1c66d3ba5137ef3024c49535ea7486d69a40584e3a8817ad60770e1459426095",
    "count": 15,
    "topic": "Passé en た",
    "topic_en": "Past: た"
   },
   {
    "path": "exercises/relative-form.jsonl",
-   "sha256": "283ceebffa58cf1da2217cc90944b9130d34d47090254056ec905be469e8448b",
+   "sha256": "7d2399a80b9fa1a64350294201bf3eef8773f7137ceb64a5cb3435cf8de1e648",
    "count": 18,
    "topic": "Relatives : verbe devant le nom",
    "topic_en": "Relative clauses: the verb before the noun"
   },
   {
    "path": "exercises/relative-ga.jsonl",
-   "sha256": "a4e8c7d434298c27ed410f37680932baeda361d216e8d703aee982e8647615f3",
+   "sha256": "ddf11e3060996e7b305738c636dedc275e03e9993dfd6421a853219f9a236705",
    "count": 16,
    "topic": "Relatives : は ou が",
    "topic_en": "Relative clauses: は or が"
   },
   {
    "path": "exercises/tai.jsonl",
-   "sha256": "660b85a8d17a1a1bfc13287b593de6f75ed1b8f52c529ee44d0c12b684aa487e",
+   "sha256": "8a89e744540d523fe4263ed39891a24a44adf9321be459cf09d0c4aaef7bb9a7",
    "count": 15,
    "topic": "Envie : forme en たい",
    "topic_en": "Wanting: たい"
   },
   {
    "path": "exercises/tara.jsonl",
-   "sha256": "89f2234896ae67cac8c8201321adedb622ce368542b246124d142c9da25e6b3b",
+   "sha256": "a1b99526a2bdede16ba515058ba919d0a365da9bdd53b77536b3856af7655116",
    "count": 15,
    "topic": "Conditionnel en たら",
    "topic_en": "Conditional: たら"
   },
   {
    "path": "exercises/te-form.jsonl",
-   "sha256": "39161fe33c197b8e52fc75671e555d984c2d51216c892d182c436e9c4c17f243",
+   "sha256": "bd5e64e8686c977bdb327c467cb63593603159e49bbee213b434b1d27cedacef",
    "count": 35,
    "topic": "Forme en て",
    "topic_en": "て-form"
   },
   {
    "path": "exercises/temo.jsonl",
-   "sha256": "49140aec14c4d3498150ec64dee6b1a52c88411284b7d725c9da4ae89d678085",
+   "sha256": "402eb15b5a04d1fcd77b62dda39d2249f147b32134435e2a8c0a3404d0a83e8e",
    "count": 19,
    "topic": "Même si : ても",
    "topic_en": "Even if: ても"
   },
   {
    "path": "exercises/to-ya.jsonl",
-   "sha256": "c4d6f953a8645c9bdd0a1299b0a2dbb2e5d0d393211090de3c89b22afc803141",
+   "sha256": "1f1c44c161dc152cfff62380491e843f9f2d484cb64bb937fb0fc8ec9acb4803",
    "count": 14,
    "topic": "Particules と / や",
    "topic_en": "Particles と / や"
   },
   {
    "path": "exercises/volitional.jsonl",
-   "sha256": "e704013a2a25bea0b8a2dcf9493dd155cb2de300f3e087273cf2fea7c1c1bbd9",
+   "sha256": "b2e75a009ae67a687d0b5ab2858901aebf426909bdad08422dc7075ac7d66dbf",
    "count": 14,
    "topic": "Volitif en う / よう",
    "topic_en": "Volitional: う / よう"
   },
   {
    "path": "exercises/wa-ga.jsonl",
-   "sha256": "98ea91a746a10c85a086d5d239cd7e1aca60b2aa9a91da73028e3aa43699c149",
+   "sha256": "e055fff868eb709c317aabf0403041721c37c758d866ebdec3d852d55102e6a3",
    "count": 15,
    "topic": "Particules は / が",
    "topic_en": "Particles は / が"
   },
   {
    "path": "exercises/wa-mo.jsonl",
-   "sha256": "a45776459429010517ab32efc966d7d372683a1dd57b81dc8e7a54a675ada9e8",
+   "sha256": "afb876aab0b4af3a61d2336421cd9040cf881370e2a617c69029fba5435c0c6f",
    "count": 15,
    "topic": "Particules は / も",
    "topic_en": "Particles は / も"
   },
   {
    "path": "exercises/wo-ga.jsonl",
-   "sha256": "3d1a38be5ea0485846a73ab54898740dcd67d45f6764eca8be022f6151679c9a",
+   "sha256": "9761876843d9c318174ecc0afd57a4c3e37dd230444aa6ce3127182446f3b61d",
    "count": 15,
    "topic": "Particules を / が",
    "topic_en": "Particles を / が"
   },
   {
    "path": "exercises/word-order.jsonl",
-   "sha256": "30678724935945dc36b5cd22427cc923588f755d730e088bb15883a3a0bbe715",
+   "sha256": "f0f7d7f9b2469c1009c091fd7fd68868e49fa0353806c7da15eccb43bbeca50d",
    "count": 23,
    "topic": "Ordre des mots",
    "topic_en": "Word order"

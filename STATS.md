@@ -1,6 +1,6 @@
-# Bank statistics — v4 (2026-09-29)
+# Bank statistics — v5 (2026-10-09)
 
-**460** reviewed exercises · 105 rejected keys
+**460** reviewed exercises · 93 rejected keys
 
 | File | Topic | Exercises |
 | --- | --- | ---: |
