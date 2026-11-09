@@ -1,8 +1,8 @@
 {
  "format": 1,
- "version": 6,
+ "version": 7,
  "updated": "2026-11-09",
- "count": 654,
+ "count": 700,
  "rejected": 93,
  "files": [
   {
@@ -116,6 +116,13 @@
    "count": 15,
    "topic": "Forme polie en ます",
    "topic_en": "Polite form: ます"
+  },
+  {
+   "path": "exercises/mimetic.jsonl",
+   "sha256": "276c7fdb6f43ff4457aff609c86c5179f7d9a2cf6b621fa21ebb035e09bbd45c",
+   "count": 46,
+   "topic": "Onomatopées : はっきり, ゆっくり…",
+   "topic_en": "Mimetic words: はっきり, ゆっくり…"
   },
   {
    "path": "exercises/must-may.jsonl",

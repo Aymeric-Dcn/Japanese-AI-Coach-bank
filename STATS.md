@@ -1,6 +1,6 @@
-# Bank statistics — v6 (2026-11-09)
+# Bank statistics — v7 (2026-11-09)
 
-**654** reviewed exercises · 93 rejected keys
+**700** reviewed exercises · 93 rejected keys
 
 | File | Topic | Exercises |
 | --- | --- | ---: |
@@ -20,6 +20,7 @@
 | `exercises/kara-made.jsonl` | Particles から / まで | 15 |
 | `exercises/mae-ato.jsonl` | Before / after: 前に・後で | 17 |
 | `exercises/masu.jsonl` | Polite form: ます | 15 |
+| `exercises/mimetic.jsonl` | Mimetic words: はっきり, ゆっくり… | 46 |
 | `exercises/must-may.jsonl` | Obligation and permission | 32 |
 | `exercises/nagara.jsonl` | While: ながら | 14 |
 | `exercises/negative.jsonl` | Negative: ない | 12 |
