@@ -1,9 +1,11 @@
-# Bank statistics — v5 (2026-10-09)
+# Bank statistics — v6 (2026-11-09)
 
-**460** reviewed exercises · 93 rejected keys
+**654** reviewed exercises · 93 rejected keys
 
 | File | Topic | Exercises |
 | --- | --- | ---: |
+| `exercises/adjectives.jsonl` | Adjectives: past and negative | 36 |
+| `exercises/adverbs.jsonl` | Adverbs: 〜く / 〜に | 28 |
 | `exercises/ba.jsonl` | Conditional: ば | 13 |
 | `exercises/causative.jsonl` | Causative: せる / させる | 13 |
 | `exercises/jlpt-n4-grammar.jsonl` | JLPT N4 · 文法形式 (grammar) | 10 |
@@ -18,6 +20,7 @@
 | `exercises/kara-made.jsonl` | Particles から / まで | 15 |
 | `exercises/mae-ato.jsonl` | Before / after: 前に・後で | 17 |
 | `exercises/masu.jsonl` | Polite form: ます | 15 |
+| `exercises/must-may.jsonl` | Obligation and permission | 32 |
 | `exercises/nagara.jsonl` | While: ながら | 14 |
 | `exercises/negative.jsonl` | Negative: ない | 12 |
 | `exercises/ni-de.jsonl` | Particles に / で | 19 |
@@ -26,9 +29,12 @@
 | `exercises/past.jsonl` | Past: た | 15 |
 | `exercises/relative-form.jsonl` | Relative clauses: the verb before the noun | 18 |
 | `exercises/relative-ga.jsonl` | Relative clauses: は or が | 16 |
+| `exercises/shika-dake.jsonl` | Only: しか / だけ | 38 |
 | `exercises/tai.jsonl` | Wanting: たい | 15 |
 | `exercises/tara.jsonl` | Conditional: たら | 15 |
+| `exercises/tari.jsonl` | Among other things: たり〜たり | 28 |
 | `exercises/te-form.jsonl` | て-form | 35 |
+| `exercises/te-kara.jsonl` | After doing: てから | 32 |
 | `exercises/temo.jsonl` | Even if: ても | 19 |
 | `exercises/to-ya.jsonl` | Particles と / や | 14 |
 | `exercises/volitional.jsonl` | Volitional: う / よう | 14 |

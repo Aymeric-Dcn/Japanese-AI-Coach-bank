@@ -1,10 +1,24 @@
 {
  "format": 1,
- "version": 5,
- "updated": "2026-10-09",
- "count": 460,
+ "version": 6,
+ "updated": "2026-11-09",
+ "count": 654,
  "rejected": 93,
  "files": [
+  {
+   "path": "exercises/adjectives.jsonl",
+   "sha256": "16f10eb11e793ac723f0cfbb4f77a689e2f6cf216b8d0f0b2bab034c03780a9e",
+   "count": 36,
+   "topic": "Adjectifs : passé et négatif",
+   "topic_en": "Adjectives: past and negative"
+  },
+  {
+   "path": "exercises/adverbs.jsonl",
+   "sha256": "ea96bbe624334b9adaa668c1fde7344f33bb4c33c896423807753f2b47c5af7e",
+   "count": 28,
+   "topic": "Adverbes : 〜く / 〜に",
+   "topic_en": "Adverbs: 〜く / 〜に"
+  },
   {
    "path": "exercises/ba.jsonl",
    "sha256": "a836b2cd086b47f14c879f6e497a6d74d56a538f89ea09bddaf219f4533a99a7",
@@ -91,7 +105,7 @@
   },
   {
    "path": "exercises/mae-ato.jsonl",
-   "sha256": "c3ce7708f213cf4f14e953f61c932f29585def853b63b19f4c660fbe4fb927ed",
+   "sha256": "642c3b3a6d98263b175543c49fb99eb25da109ebb4259aebfe2d282614c7cac7",
    "count": 17,
    "topic": "Avant / après : 前に・後で",
    "topic_en": "Before / after: 前に・後で"
@@ -102,6 +116,13 @@
    "count": 15,
    "topic": "Forme polie en ます",
    "topic_en": "Polite form: ます"
+  },
+  {
+   "path": "exercises/must-may.jsonl",
+   "sha256": "ebdee1a44bc69bcb1db136ee1109e128205187189ffa51312355c33581498c01",
+   "count": 32,
+   "topic": "Obligation et permission",
+   "topic_en": "Obligation and permission"
   },
   {
    "path": "exercises/nagara.jsonl",
@@ -147,7 +168,7 @@
   },
   {
    "path": "exercises/relative-form.jsonl",
-   "sha256": "7d2399a80b9fa1a64350294201bf3eef8773f7137ceb64a5cb3435cf8de1e648",
+   "sha256": "89340ed22dba9d3e6aaf65f5002d7cbf8c7ec29109bca8142dc2618329d5ad42",
    "count": 18,
    "topic": "Relatives : verbe devant le nom",
    "topic_en": "Relative clauses: the verb before the noun"
@@ -158,6 +179,13 @@
    "count": 16,
    "topic": "Relatives : は ou が",
    "topic_en": "Relative clauses: は or が"
+  },
+  {
+   "path": "exercises/shika-dake.jsonl",
+   "sha256": "3f040dacdb2e4530051b26b57098b3e4f0464e8ecdf643620044a40db601650a",
+   "count": 38,
+   "topic": "Seulement : しか / だけ",
+   "topic_en": "Only: しか / だけ"
   },
   {
    "path": "exercises/tai.jsonl",
@@ -174,6 +202,13 @@
    "topic_en": "Conditional: たら"
   },
   {
+   "path": "exercises/tari.jsonl",
+   "sha256": "eaa4a1d2cdf5099f8a20f62c0e5ed0e85759ac8f34de2240cb63fdf3fa3f87cd",
+   "count": 28,
+   "topic": "Entre autres : たり〜たり",
+   "topic_en": "Among other things: たり〜たり"
+  },
+  {
    "path": "exercises/te-form.jsonl",
    "sha256": "bd5e64e8686c977bdb327c467cb63593603159e49bbee213b434b1d27cedacef",
    "count": 35,
@@ -181,8 +216,15 @@
    "topic_en": "て-form"
   },
   {
+   "path": "exercises/te-kara.jsonl",
+   "sha256": "cde9da07c84c545e8e00fde785bdea6b66ea4c41fc78f3eb341b1454bccd8724",
+   "count": 32,
+   "topic": "Après avoir : てから",
+   "topic_en": "After doing: てから"
+  },
+  {
    "path": "exercises/temo.jsonl",
-   "sha256": "402eb15b5a04d1fcd77b62dda39d2249f147b32134435e2a8c0a3404d0a83e8e",
+   "sha256": "279262a15ed46a5a8debea45a911eb13ba41f675c60311203580aba1cfde7b91",
    "count": 19,
    "topic": "Même si : ても",
    "topic_en": "Even if: ても"
